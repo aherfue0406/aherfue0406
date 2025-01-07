@@ -1,5 +1,5 @@
 import pygame as pg
-import time
+
 
 funcionamiento = True
 estado = False
@@ -27,7 +27,7 @@ while funcionando:
     pg.draw.circle(screen, color, (200, 200), 70)
     pg.display.flip()
 
-    for in range(1000000)
+    for 1 in range(1000000):
            continue
     
-pg.quit()
+pg.quit
