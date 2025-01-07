@@ -1,7 +1,8 @@
 import pygame as pg
+import time
 
 funcionamiento = True
-
+estado = False
 
 
 pg.init()
@@ -29,3 +30,4 @@ while funcionando:
     for in range(1000000)
            continue
     
+pg.quit()
